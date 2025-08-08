@@ -1,1 +1,1 @@
-# this Is my Tic Tac Toe
+# This is my Tic Tac Toe
